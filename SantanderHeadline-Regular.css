@@ -1,0 +1,10 @@
+@font-face{
+    font-family:"SantanderHeadline-Regular";
+    font-style: normal;
+    font-weight: 300;
+    src:
+    	url("https://brand.santander.com/Assets/Fonts/SantanderHeadlineW05-Rg.eot?#iefix") format("eot"),
+    	url("https://brand.santander.com/Assets/Fonts/SantanderHeadlineW05-Rg.woff2") format("woff2"),
+    	url("https://brand.santander.com/Assets/Fonts/SantanderHeadlineW05-Rg.woff") format("woff"),
+    	url("https://brand.santander.com/Assets/Fonts/SantanderHeadlineW05-Rg.ttf") format("truetype");
+}
